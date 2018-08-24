@@ -14,7 +14,7 @@ import six
 import requests
 import xmltodict
 
-from weixin.helper import smart_str, smart_unicode, mart_bytes, d5_constructor as md5
+from weixin.helper import smart_str, smart_unicode, smart_bytes, d5_constructor as md5
 
 TIMEOUT = 5
 
