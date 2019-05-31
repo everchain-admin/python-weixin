@@ -4,4 +4,4 @@ chardet
 six
 lxml
 xmltodict
-pycrypto
+pycryptodome==3.7.2
